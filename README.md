@@ -22,4 +22,4 @@ module.exports = {
 
 ## How to use
 1. Install and Setup API Key, first.
-2. `$ node myTwit.js` will show you image urls
+2. `$ node getImages.js` will show you image urls
