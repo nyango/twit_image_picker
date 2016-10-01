@@ -7,9 +7,12 @@
     "name": "nyango"
   },
   "dependencies": {
+    "@google-cloud/vision": "^0.3.0",
     "twit": "2.2.4"
   },
   "keywords": [
-    "twitter", "image", "search"
+    "twitter",
+    "image",
+    "search"
   ]
 }
