@@ -2,7 +2,11 @@ twit_image_picker
 ----------------------
 
 
-## How to use
+## Install
+0. get and install `nodejs`, if you did not install it.
+1. `$ npm install`
+
+### Setup API Key
 1. put your api keys(you can get them from https://apps.twitter.com/)
 2. write them in a file named `twit_params.js` as following
 
@@ -15,3 +19,7 @@ module.exports = {
 	app_only_auth:        true
 };
 ```
+
+## How to use
+1. Install and Setup API Key, first.
+2. `$ node myTwit.js` will show you image urls
