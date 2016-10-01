@@ -1,0 +1,15 @@
+{
+  "name": "twit_image_picker",
+  "version": "0.0.1",
+  "description": "search and filter images",
+  "homepage": "",
+  "author": {
+    "name": "nyango"
+  },
+  "dependencies": {
+    "twit": "2.2.4"
+  },
+  "keywords": [
+    "twitter", "image", "search"
+  ]
+}
